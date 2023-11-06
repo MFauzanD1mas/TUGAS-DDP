@@ -11,7 +11,7 @@ int main(){
 	
 	cout<<"Masukan jumlah penutup : ";
 	cin>>atas;
-		for(int C= 1; C<=baris; C++){
+		for(int C= 1; C<=atas; C++){
 		cout<<" __ ";
 	}
 	cout<<endl;
